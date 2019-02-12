@@ -12,7 +12,6 @@ Begin["`Private`"];
 
 timesTwo[a_, b_] := Times[a, b];
 
-
 End[];
 
 EndPackage[]; 
